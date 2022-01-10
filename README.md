@@ -3,8 +3,9 @@
 <img src="https://www.pngitem.com/pimgs/b/46-466645_laptop-icon-png-transparent.png" min-width="4300px" max-width="300px" width="300px" align="right" alt="Computer Victor Silva">
 
 <p> 👨‍🎓 Tenho <b>22 anos</b> e estou iniciando minha carreira na área da programação.<br>
-  <br>📘 Estou 2° Semestre em <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-<br>👨‍💻 Sempre fui facisnado por tecnlogia, muito curioso desde pequeno <br>e agora procuro me tornar profissional nesta área.
+  <br>📘 Estou 3° Semestre em <b>Análise e Desenvolvimento de Sistemas</b>.<br>
+<br>👨‍💻 Estágiario na <b>T-Systems Brasil<b>.
+  <br> 💻 Sempre fui facisnado por tecnlogia, muito curioso desde pequeno <br>e agora procuro me tornar profissional nesta área.
 </p>
 
 ✉ Caso queira falar comigo:
