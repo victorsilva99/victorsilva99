@@ -4,7 +4,7 @@
 
 <p> 👨‍🎓 Tenho <b>22 anos</b> e estou iniciando minha carreira na área da programação.<br>
   <br>📘 Estou 3° Semestre em <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-<br>👨‍💻 Estágiario na <b>T-Systems Brasil<b>.
+<br>👨‍💻 Estágiario na <b>T-Systems Brasil<b>.<br>
   <br> 💻 Sempre fui facisnado por tecnlogia, muito curioso desde pequeno <br>e agora procuro me tornar profissional nesta área.
 </p>
 
