@@ -11,10 +11,11 @@
 ✉ Caso queira falar comigo:
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/victor-s-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/victorsilvaivn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <br><a href="mailto:victor.s.souza1999@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</a>
- <a href="https://sbs.t-systems.com.br/gitlab/fe605" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
+  <a href="https://sbs.t-systems.com.br/gitlab/fe605" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
+ <br><a href="https://www.instagram.com/victorsilvaivn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="mailto:victor.s.souza1999@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</a></a>
+
 </div><br>
     
 <div style="display: "flex" ">
