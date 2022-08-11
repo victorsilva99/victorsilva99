@@ -4,7 +4,7 @@
 
 <p> 👨‍🎓 Tenho <b>23 anos</b> e estou iniciando minha carreira na área da programação.<br>
   <br>📘 Estou 4° Semestre em <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-<br>👨‍💻 Programador III na <b>T-Systems Brasil<b>.<br>
+<br>👨‍💻 <b>Desenvolvimento de Software - FullStack<b> na <b>T-Systems Brasil<b>.<br>
   <br> 💻 Sempre fui fascinado por tecnologia, e desde pequeno sou muito <br> entusiasta em qualquer âmbito que envolva tecnologia.
 </p>
 
