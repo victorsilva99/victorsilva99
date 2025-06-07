@@ -3,7 +3,7 @@
 <img src="https://www.pngitem.com/pimgs/b/46-466645_laptop-icon-png-transparent.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer Victor Silva">
 
 <p>
-  👨‍🎓 Tenho <b>25 anos</b> e estou na área da programação há <b>2 anos</b>.<br>
+  👨‍🎓 Tenho <b>26 anos</b> e estou na área da programação há <b>4 anos</b>.<br>
   📘 Formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Técnico em Informática</b>.<br>
   👨‍💻 Atualmente sou <b>Desenvolvedor de Software FullStack</b> na <b>T-Systems Brasil</b>.<br>
   💻 Sempre fui fascinado por tecnologia e desde pequeno sou um entusiasta em qualquer âmbito que envolva tecnologia.
